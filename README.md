@@ -1,19 +1,21 @@
-Abhishek Ecommerce Sales Dashboard
+**Abhishek Ecommerce Sales Dashboard**
 
-Overview:
+**Overview:**
 This project presents an interactive Ecommerce Sales Dashboard developed using Power BI. It provides a comprehensive view of key business metrics such as sales, profit, customer segments, product categories, and monthly trends. The goal is to enable data-driven decision-making for ecommerce performance improvement.
 
-Dashboard preview:
-interface.png
+**Dashboard Preview**
 
-Key Metrics:
+![Dashboard Screenshot](interface.png)
+
+
+**Key Metrics:**
 
 * Total Sales Amount: ₹438K
 * Total Quantity Sold: 5615 units
 * Total Profit: ₹37K
 * Average Order Value (AOV): ₹121K
 
-Dashboard Insights:
+**Dashboard Insights:**
 
 1. Regional Performance:
 
@@ -59,25 +61,17 @@ Dashboard Insights:
    * Interactive quarter filters (Q1 to Q4) for time-based analysis.
    * Additional slicers for custom exploration.
 
-Dataset Description:
+**Dataset Description:**
 
 * orders.csv: Contains order-level data including order date, customer name, state, and order amount.
 * order\_details.csv: Contains product-level data such as category, quantity, price, and profit.
 
-Tools and Technologies Used:
+**Tools and Technologies Used:**
 
 * Power BI: For dashboard creation and data visualization
 * Excel/CSV: For data storage and cleaning
 * Power Query Editor: For transforming data
 * DAX: For creating custom measures and KPIs
 
-Project Folder Structure:
-Ecommerce-Sales-Dashboard/
-├── orders.csv
-├── order\_details.csv
-├── Ecommerce\_Dashboard.pbix
-├── dashboard\_screenshot.png
-└── README.md
-
-About the Author:
+**About the Author:**
 This dashboard was developed by Abhishek Kumar as part of a data visualization initiative to transform raw sales data into actionable insights using Microsoft Power BI.
