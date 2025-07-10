@@ -3,6 +3,9 @@ Abhishek Ecommerce Sales Dashboard
 Overview:
 This project presents an interactive Ecommerce Sales Dashboard developed using Power BI. It provides a comprehensive view of key business metrics such as sales, profit, customer segments, product categories, and monthly trends. The goal is to enable data-driven decision-making for ecommerce performance improvement.
 
+Dashboard preview:
+interface.png
+
 Key Metrics:
 
 * Total Sales Amount: ₹438K
